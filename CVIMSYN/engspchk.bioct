@@ -1,0 +1,8 @@
+" engspchk.rare: Rare and/or Unusual Words and words from myself
+"              which do not appear in <engspchk.dict>, <engspchk.proper>, or
+"              <engspchk.dialect>.  This file is an optional file -- if present,
+"              engspchk will load it, otherwise no problem.
+"  Language:   English
+"  Maintainer: chentong
+"  Date:       Aug 11, 2003
+syn keyword RareWord contained	methylation epigenomic  multigenic  epigenetic  RNAi    peptides    cytometry   dendritic   GTPase  mysoin  cytoskeleton    analyses    autoimmunity
